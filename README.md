@@ -6,4 +6,6 @@
 :eyes: Interests: UX, UI Design, Web Design, and Graphic Design.\
 :sparkles: Hobbies: Books & Music & Draw\
 😄 Pronouns: She/Her\
-💬 Talk to me about tech, cats, memes, music, or anything that interests you.  I love to make friends! :hugs:
+💬 Talk to me about tech, cats, memes, music, or anything that interests you.  I love to make friends! :hugs:\
+\
+![](https://komarev.com/ghpvc/?username=nandakobs&color=blueviolet&label=+)
