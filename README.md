@@ -8,4 +8,4 @@
 😄 Pronouns: She/Her\
 💬 Talk to me about tech, cats, memes, music, or anything that interests you.  I love to make friends! :hugs:
 
-![Kobs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandakobs&theme=nightowl&show_icons=true)
+
