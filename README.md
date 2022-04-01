@@ -2,7 +2,7 @@
 
 ### I'm Fernanda Kobs, a self-taught codenewbie passionate about tech and design.
 
-:woman_technologist: I’m currently learning Python, JavaScript, C++ and Java. Some of my progress is registered in the repositories below.\
+:woman_technologist: I’m currently learning Python, JavaScript, C++ and SQL databases. Some of my progress is registered in the repositories below.\
 :eyes: Interests: UX, UI, and Web Design.\
 :sparkles: Hobbies: Books & Music & Draw\
 😄 Pronouns: She/Her\
