@@ -6,6 +6,5 @@
 :eyes: Interests: UX, UI, and Web Design.\
 :sparkles: Hobbies: Books & Music & Draw\
 😄 Pronouns: She/Her\
-💬 Talk to me about tech, cats, memes, music, or anything that interests you.  I love to make friends! :hugs:
-
-
+💬 Talk to me about tech, cats, memes, music, or anything that interests you.  I love to make friends! :hugs: \
+:page_with_curl: You can see my resume in brazilian portuguese by cliking here: [Curriculum](https://drive.google.com/file/d/134rIZNEkrjuODPdODR4zA1Eo8RUvMrty/view?usp=sharing)
