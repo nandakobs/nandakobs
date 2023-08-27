@@ -10,7 +10,8 @@ They say communication is key, and I'm unlocking it in style! 🗝️ I'm on a q
 
 <p align="left"> 
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Brazil flag" width="25" height="25"/> 
-<img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" alt="United Kingdom flag" width="25" height="25"/> 
+<img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" alt="United Kingdom flag" width="25" height="25"/>  
+<img src="https://flagicons.lipis.dev/flags/4x3/es.svg" alt="Spain flag" width="25" height="25"/>  
 <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="Germany flag" width="25" height="25"/> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25" height="25"/> 
