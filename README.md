@@ -2,7 +2,7 @@
 
 ### I'm Fernanda Kobs, a Backend Developer made in Brazil 🇧🇷
 
-I have been dancing with Python and Django for over a year now. 🐍💃 I may be junior, but I'm self-taught and passionate about problem-solving!
+I'm building solutions with Python and Django, fueled by curiosity and a love for problem-solving! 🐍💃
 When not crafting web solutions, I'm exploring design, giggling at cat memes, and shaking it off to my favorite songs. 🎶🐱
 
 They say communication is key, and I'm unlocking it in style! 🗝️ I'm on a quest to become a polyglot in both human and tech languages, to make sure nothing gets lost in translation! 💻🗣️   Check out my linguistic versatility below: 
